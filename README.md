@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afifmkp
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, SQL, Data Visualizing
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Social Project, SDGs Project
 - 📫 How to reach me instagram afifmkp
 
 <!---
